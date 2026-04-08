@@ -21,5 +21,5 @@
 - Cloud Based Projects
 
 ## Connect with Me
-- LinkedIn: your-linkedin-link
-- Email: your-email
+- LinkedIn: https://www.linkedin.com/in/bhavit-jain-33846128a?utm_source=share_via&utm_content=profile&utm_medium=member_ios
+- Email: jainbhavit2@gmail.com
