@@ -1,0 +1,13 @@
+python
+java
+c++
+machine learning
+ai
+data science
+sql
+aws
+flask
+django
+html
+css
+javascript
