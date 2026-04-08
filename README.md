@@ -1,25 +1,22 @@
-# Hi, I'm Bhavit Jain 👋
+# AI Resume Ranking System
 
-🎓 Final Year Student
-☁️ Interested in Cloud Computing, AI and Machine Learning
-💻 Skilled in Python, Flask, MongoDB, HTML, CSS
-🚀 Working on Resume Ranking and Fake News Detection Projects
+An intelligent resume screening and ranking system built using Python, Flask, and Machine Learning. The system analyzes multiple resumes and ranks candidates based on job description relevance.
 
-## Skills
+## Features
+- Upload multiple resumes
+- Match resumes with job description
+- Resume score generation
+- Candidate ranking
+- Attractive web interface
+
+## Technologies Used
 - Python
 - Flask
 - Machine Learning
-- MongoDB
 - HTML/CSS
-- Git & GitHub
-- Cloud Computing
+- NLP
 
-## Projects
-- AI Resume Ranking System
-- Fake News Detection using LIAR Dataset
-- Flask MongoDB User Form
-- Cloud Based Projects
-
-## Connect with Me
-- LinkedIn: https://www.linkedin.com/in/bhavit-jain-33846128a?utm_source=share_via&utm_content=profile&utm_medium=member_ios
-- Email: jainbhavit2@gmail.com
+## How to Run
+```bash
+pip install -r requirements.txt
+python app.py
